@@ -1,6 +1,5 @@
-# Welcome to Remix!
+# Welcome to Elm Jokes
 
-- [Remix Docs](https://remix.run/docs)
 
 ## Development
 
